@@ -9,4 +9,6 @@ No site tem meus contatos e minha redes socias que mais uso diariamente para fin
 
 Aqui também irei colocar o link do site para que posso ver como ficou e quem poder dá um *feedback* desde já fica meus agradecimentos.
 
-[Link do site]()
+[Link do site](https://wlisses-silva.github.io/meu-site/)
+
+O site também vou desenvolvido com responsividade, assim pode se adequar a diferentes tipos de tela e dispositivos. Fiquem a vontade para testar...
